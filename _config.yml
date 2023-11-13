@@ -14,7 +14,7 @@ description              : &description "My personal website"
 url                      : https://liangtaozhong.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://blog.csdn.net/qq_27350133" # the subpath of your site, e.g. "/blog"
 repository               : "LiangtaoZhong/LiangtaoZhong.github.io"
-teaser                   :  "500x300.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true

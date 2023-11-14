@@ -2,7 +2,7 @@
 title: "Research on key technologies of vision driven autonomous flight for multi-rotor UAV"
 collection: publications
 permalink: /publication/thesis
-excerpt: 'This is my master\'s thesis. This paper mainly studies how to realize the localization and autonomous obstacle avoidance of UAV by using limited camera sensors.'
+excerpt: 'This is my master ''s thesis. This paper mainly studies how to realize the localization and autonomous obstacle avoidance of UAV by using limited camera sensors.'
 date: 2023-06-07
 venue: 'A Thesis Submitted to Southwest University of Science and Technology for the Degree of Master'
 paperurl: 'http://LiangtaoZhong.github.io/files/thesis.pdf'

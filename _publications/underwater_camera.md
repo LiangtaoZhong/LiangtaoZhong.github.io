@@ -1,0 +1,11 @@
+---
+title: "Underwater Light Field Camera Calibration Based on Multi-Layer Flat Refractive Model and Multi-Projection-Center Model"
+collection: publications
+permalink: /publication/underwater_camera
+excerpt: 'In this paper, the ray paths of the scene and those inside the camera in typical underwater scenes are modeled based on the multi-layer flat refractive model and the multi-projection-center model, and the corresponding underwater calibration parameters are estimated.'
+date: 2022-06-07
+venue: 'Acta Optica Sinica(光学学报)'
+paperurl: 'http://LiangtaoZhong.github.io/files/underwater_camera.pdf'
+citation: 'Xiaoqiang Zhang, Liangtao Zhong, Qiqi Leng, Lingyan Ran, Hongyu Chu. Underwater Light Field Camera Calibration Based on Multi-Layer Flat Refractive Model and Multi-Projection-Center Model[J]. Acta Optica Sinica, 2022, 42(12): 1215001. '
+---
+The lack of calibration methods for the underwater light field camera restricts the applications of light field imaging technologies in underwater and other refractive scenes. Aiming at the above problem, the ray paths of the scene and those inside the camera in typical underwater scenes are modeled based on the multi-layer flat refractive model and the multi-projection-center model, and the corresponding underwater calibration parameters are estimated. The underwater calibration parameters of the light field camera are linearly initialized by using the flat refractive geometric constraints. Considering the internal ray path distortion in the real light field camera, the underwater calibration parameters are optimized nonlinearly by minimizing the reprojection error. Quantitative calibration experiments of simulated scenes and real underwater scenes are designed to verify the effectiveness of the proposed method. The results show that the proposed method can estimate the underwater calibration parameters accurately. In multiple real underwater scene experiments, the direction errors of the normal vectors of the refraction surfaces are all less than 0.8° and the distance errors of the refraction surfaces are all less than 3%. The quantitative comparison experimental results show that, compared with the single-view underwater calibration method, the proposed method makes use of the multi-view characteristics of the light field camera, so the calibration results are closer to the real values.

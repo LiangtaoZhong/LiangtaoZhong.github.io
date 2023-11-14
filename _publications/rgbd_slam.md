@@ -1,0 +1,11 @@
+---
+title: "Visual SLAM for Dynamic Environments Based on Static Key-Points Detection"
+collection: publications
+permalink: /publication/rgbd_slam
+excerpt: 'In this paper, a static key-point detection approach is proposed based on optical flow feature clustering and potential moving region detection and is utilized for RGB-D SLAM in a dynamic environment.'
+date: 2023-07-07
+venue: '2023 9th International Conference on Virtual Reality (ICVR)'
+paperurl: 'http://LiangtaoZhong.github.io/files/rgbd_slam.pdf'
+citation: 'Zhong L, Zhang X, Ran L, et al. Visual SLAM for Dynamic Environments Based on Static Key-Points Detection[C]//2023 9th International Conference on Virtual Reality (ICVR). IEEE, 2023: 93-99.'
+---
+Recently, the technique of virtual reality has drawn great attention from both academics and industry fields. In many VR applications, the time-varying orientations and the positions of the VR headset are needed, where the technique of simultaneous localization and mapping (SLAM) can be applied. While great progress has been made in vision-based SLAM algorithms and systems in the recent two decades, the problem of visual SLAM in dynamic environments with moving objects is still unaddressed. In this paper, a static key-point detection approach is proposed based on optical flow feature clustering and potential moving region detection and is utilized for RGB-D SLAM in a dynamic environment. Firstly, considering the fact that there could be multiple moving objects in the scene, an optical flow feature is designed to cluster the multiple motion patterns in the scene. Secondly, an ultra-lightweight object detection network is utilized to detect potential moving regions in the scene, without using GPU resources. Finally, by utilizing the key-point clustering and potential moving regions detection, the static key-points are detected and inputted into the keypoint-based visual SLAM methods. The proposed approach is easy to insert as a pre-processing module in various key-point based visual SLAM systems. Extensive experimental results with qualitative and quantitative evaluations have demonstrated the performance with satisfactory accuracy of the proposed approach in various challenging dynamic scene scenarios.

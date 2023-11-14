@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Liangtao Zhong"
 description              : &description "My personal website"
 url                      : https://liangtaozhong.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "LiangtaoZhong/LiangtaoZhong.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
